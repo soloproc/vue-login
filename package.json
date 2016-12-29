@@ -2,7 +2,7 @@
   "name": "Login",
   "version": "1.0.0",
   "description": "A Vue Project With Login",
-  "author": "liejin",
+  "author": "soloproc",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
